@@ -72,3 +72,5 @@ b181cb3e1658477cbec4621470bf574b
 / $ exit
 
 ```
+
+##### Doc: https://8gwifi.org/docs/podman-jenkins.jsp
